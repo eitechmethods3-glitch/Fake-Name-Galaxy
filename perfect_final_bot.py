@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 from faker import Faker
 
 # --- 1. CONFIGURATION ---
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # <<<--- আপনার আসল টোকেনটি এখানে বসান
+BOT_TOKEN = "8451019264:AAELqR53CDZq_-Oz0n04Ad3HNFFm-ZHBCHY"  # <<<--- আপনার আসল টোকেনটি এখানে বসান
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
